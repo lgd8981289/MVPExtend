@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer name="mvp_extend_view_tag_id">0x123</integer>
+
+</resources>
